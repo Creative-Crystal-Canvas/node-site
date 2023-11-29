@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rhinestone E-Commerce Store</title>
+    <!-- Include Tailwind CSS -->
+    <!-- <link href="styles.css" rel="stylesheet"> -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.4/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+    
+    <header class="py-6">
+    <div class="container mx-auto flex justify-between items-center">
+      <h1 class="text-3xl font-bold text-gray-800 hover:text-gray-600">
+        <a href="/">CREATIVE CRYSTAL CANVAS</a>
+      </h1>
+      <nav>
+        <ul class="flex space-x-8">
+          <li><a href="#" class="text-gray-800 hover:text-gray-600">Shop</a></li>
+          <li><a href="#" class="text-gray-800 hover:text-gray-600">About</a></li>
+          <li><a href="#" class="text-gray-800 hover:text-gray-600">Follow</a></li>
+          <li><a href="#" class="text-gray-800 hover:text-gray-600">Search</a></li>
+        </ul>
+      </nav>
+      <div>
+        <a href="/cart" class="text-gray-800 hover:text-gray-600">Cart (0)</a>
+      </div>
+    </div>
+  </header>
+
+    <div id="product-grid" class="container mx-auto my-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <!-- Product cards will be injected here by script.js -->
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

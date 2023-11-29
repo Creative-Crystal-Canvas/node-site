@@ -1,0 +1,164 @@
+[
+  {
+    "id": "burger-of-the-day",
+    "name": "Burger of the Day",
+    "description": "Txxxxxhe freshest, most delicious burger with a daily twist!",
+    "images": ["1.IMG_1490.jpeg", "2.IMG_1494.jpeg"],
+    "videos": ["4.IMG_1492.mov"],
+    "variants": [
+      {
+        "size": "SS10",
+        "price": 2.99
+      },
+      {
+        "size": "Medium",
+        "price": 7.99
+      },
+      {
+        "size": "Large",
+        "price": 9.99
+      }
+    ]
+  },
+  {
+    "id": "linda-belcher-singing-mug",
+    "name": "Linda Belcher Singing Mug",
+    "description": "Start your morning right with a song from this Linda-inspired mug!",
+    "images": ["2.IMG_1494.jpeg"],
+    "videos": ["4.IMG_1492.mov"],
+    "variants": [
+      {
+        "size": "Standard",
+        "price": 12.99
+      }
+    ]
+  },
+  {
+    "id": "gene-keyboard-tie",
+    "name": "Gene's Keyboard Tie",
+    "description": "Musical tie inspired by Gene's keyboard creativity.",
+    "images": ["2.IMG_1494.jpeg"],
+    "videos": ["4.IMG_1492.mov"],
+    "variants": [
+      {
+        "size": "One Size",
+        "price": 15.99
+      }
+    ]
+  },
+  {
+    "id": "louise-bunny-ears",
+    "name": "Louise's Bunny Ears Hat",
+    "description": "Embrace your inner Louise with this replica bunny ears hat.",
+    "images": ["1.IMG_1490.jpeg"],
+    "videos": ["4.IMG_1492.mov"],
+    "variants": [
+      {
+        "size": "Child",
+        "price": 9.99
+      },
+      {
+        "size": "Adult",
+        "price": 14.99
+      }
+    ]
+  },
+  {
+    "id": "tina-friend-fiction",
+    "name": "Tina's Erotic Friend Fiction Notebook",
+    "description": "Unleash your imagination, Tina-style, with this themed notebook.",
+    "images": ["2.IMG_1494.jpeg"],
+    "videos": ["4.IMG_1492.mov"],
+    "variants": [
+      {
+        "size": "Standard",
+        "price": 6.99
+      }
+    ]
+  },
+  {
+    "id": "kuchi-kopi-light",
+    "name": "Kuchi Kopi Night Light",
+    "description": "Brighten your night with Louise's favorite toy, Kuchi Kopi.",
+    "images": ["3.IMG_1498.jpeg"],
+    "videos": ["4.IMG_1492.mov"],
+    "variants": [
+      {
+        "size": "Small",
+        "price": 19.99
+      },
+      {
+        "size": "Large",
+        "price": 29.99
+      }
+    ]
+  },
+  {
+    "id": "bob-mustache-kit",
+    "name": "Bob's Mustache Grooming Kit",
+    "description": "Keep your mustache as neat as Bob's with this grooming kit.",
+    "images": ["1.IMG_1490.jpeg"],
+    "videos": ["4.IMG_1492.mov"],
+    "variants": [
+      {
+        "size": "Standard",
+        "price": 24.99
+      }
+    ]
+  },
+  {
+    "id": "pesto-pizza-dough",
+    "name": "Jimmy Pesto's Pizza Dough",
+    "description": "Make pizza that rivals Jimmy Pesto's with this ready-made dough.",
+    "images": ["3.IMG_1498.jpeg"],
+    "videos": ["4.IMG_1492.mov"],
+    "variants": [
+      {
+        "size": "Small",
+        "price": 3.99
+      },
+      {
+        "size": "Large",
+        "price": 5.99
+      }
+    ]
+  },
+  {
+    "id": "teddy-tool-set",
+    "name": "Teddy's Handyman Tools Set",
+    "description": "Fix anything around the house with Teddy's tool set.",
+    "images": ["2.IMG_1494.jpeg"],
+    "videos": ["4.IMG_1492.mov"],
+    "variants": [
+      {
+        "size": "Standard",
+        "price": 35.99
+      }
+    ]
+  },
+  {
+    "id": "wonder-wharf-tshirt",
+    "name": "Wonder Wharf Souvenir T-Shirt",
+    "description": "Remember your visit to Wonder Wharf with this souvenir T-shirt.",
+    "images": ["1.IMG_1490.jpeg", "3.IMG_1498.jpeg"],
+    "videos": ["4.IMG_1492.mov"],
+    "variants": [
+      {
+        "size": "Small",
+        "price": 14.99
+      },
+      {
+        "size": "Medium",
+        "price": 14.99
+      },
+      {
+        "size": "Large",
+        "price": 14.99
+      },
+      {
+        "size": "XL",
+        "price": 16.99
+      }
+    ]
+  }
+]
